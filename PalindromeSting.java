@@ -21,6 +21,7 @@ public class PalindromeString {
             System.out.println(originalString + " is not a palindrome String.");
         }
     }
+    //reverse the string
     public static String reverseNum(String num){
         String reverse = "";
         
